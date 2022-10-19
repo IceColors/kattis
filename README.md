@@ -1,5 +1,6 @@
 # Kattis
-My solutions for kattis
+Kattis is an online curator of programming challenges from competitive programming contests and various other sources, where each task is verified online.
+This repo contains my solutions for most of my solved kattis programming challenges.
 
 ### Profile
 https://open.kattis.com/users/tobias-kjellstrom
