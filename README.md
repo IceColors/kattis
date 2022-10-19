@@ -1,7 +1,10 @@
-# kattis
+# Kattis
 My solutions for kattis
 
-hello## Problems
+### Profile
+https://open.kattis.com/users/tobias-kjellstrom
+
+## Problems
 | Problem | Language | :link: |
 | - | - | - |
 | [0-1 sequences](https://github.com/IceColors/kattis/tree/master/0-1%20Sequences) | C++ | [Problem on Kattis ![:cat:](https://open.kattis.com/favicon)](https://open.kattis.com/problems/sequences) |
